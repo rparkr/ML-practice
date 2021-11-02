@@ -42,6 +42,7 @@ File contains 1035 records, each record describes a randomly selected article fr
 * Location, Globe 
 
 **Wikipedia_other_info.csv**
+**⚠ NOTE ⚠, 2-Nov-2021: only the first ~200 records processed properly. I need to edit the .ipynb to improve the collection of other info.**
 Purpose: enhance data obtained through Wikipedia's API (Wikipedia_data.csv) with additional columns about each article in the dataset. 
 I obtained this data using webscraping with Python's `requests` and `BeautifulSoup` libraries.
 File contains 1035 records, each record describes the randomly selected Wikipedia articles from the Wikipedia_data.csv dataset.
