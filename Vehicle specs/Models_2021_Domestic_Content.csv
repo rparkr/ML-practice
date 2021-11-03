@@ -8,7 +8,7 @@ Audi,A4,0.02
 Audi,A5,0.0175
 Audi,A6,0.015
 Audi,A7,0.01
-Audi,A8L,0.01
+Audi,A8,0.01
 Audi,e-tron,0.01
 Audi,Q3,0.01
 Audi,Q5,0.023333333
@@ -22,21 +22,21 @@ Audi,S4,0.01
 Audi,S5,0.01
 Audi,S6,0.01
 Audi,S7,0.01
-Audi,S8L,0.01
+Audi,S8,0.01
 Audi,SQ5,0.02
 Audi,SQ7,0.01
 Audi,SQ8,0.01
 Audi,TT,0.01
 Bentley,Bentayga,0
 Bentley,Continental,0
-Bentley,Flying,0
-BMW,2,0.05
-BMW,3,0.075
+Bentley,Flying Spur,0
+BMW,2-Series,0.05
+BMW,3-Series,0.075
 BMW,330e,0.075
-BMW,4,0.05
-BMW,5,0.05
-BMW,7,0.05
-BMW,8,0.05
+BMW,4-Series,0.05
+BMW,5-Series,0.05
+BMW,7-Series,0.05
+BMW,8-Series,0.05
 BMW,Cooper,0.05
 BMW,i3,0.05
 BMW,X1,0.05
@@ -77,16 +77,16 @@ Dodge,Charger,0.7
 Dodge,Durango,0.67
 Fiat,500X,0
 Ford,Bronco,0.61
-Ford,BroncoSport,0.1
+Ford,Bronco Sport,0.1
 Ford,EcoSport,0.16
 Ford,Edge,0.41
 Ford,Escape,0.4
 Ford,Expedition,0.6
 Ford,Explorer,0.48
-Ford,F150,0.55
+Ford,F-150,0.55
 Ford,GT,0.12
 Ford,Mustang,0.77
-Ford,MustangMach-E,0.15
+Ford,Mustang Mach-E,0.15
 Ford,Ranger,0.45
 Ford,Transit,0.15
 Genesis,G70,0.05
@@ -113,8 +113,8 @@ Hyundai,Ioniq,0
 Hyundai,Kona,0
 Hyundai,Nexo,0
 Hyundai,Palisade,0.05
-Hyundai,SantaFe,0.5
-Hyundai,Santa-Fe-HEV,0
+Hyundai,Santa Fe,0.5
+Hyundai,Santa Fe HEV,0
 Hyundai,Sonata,0.15
 Hyundai,Tucson,0
 Hyundai,Veloster,0.025
@@ -128,7 +128,7 @@ Jaguar,XF,0.04
 Jeep,Cherokee,0.71
 Jeep,Compass,0.2
 Jeep,Gladiator,0.65
-Jeep,GrandCherokee,0.67
+Jeep,Grand Cherokee,0.67
 Jeep,Renegade,0.14
 Jeep,Wrangler,0.6
 Kia,Forte,0.05
@@ -138,32 +138,28 @@ Kia,Rio,0.05
 Kia,Sedona,0
 Kia,Seltos,0
 Kia,Sorento,0.5
-Kia,Sorento-HEV,0
+Kia,Sorento HEV,0
 Kia,Soul,0
 Kia,Sportage,0
 Kia,Stinger,0
 Kia,Telluride,0.5
 Lamborghini,Aventador,0
-Lamborghini,Huracan,0
-Lamborghini,Sian,0
+Lamborghini,Huracán,0
+Lamborghini,Sián,0
 Lamborghini,URUS,0
 Land Rover,Defender,0.01
 Land Rover,Discovery,0.07
 Land Rover,E-Pace,0.145
-Land Rover,Range,0.083333333
-Lexus,ES-300h,0.4
-Lexus,ES-350,0.55
-Lexus,GX460,0
-Lexus,IS300,0.05
+Land Rover,Range Rover,0.083333333
+Lexus,ES,0.475
+Lexus,GX,0
+Lexus,IS,0.05
 Lexus,LC,0
 Lexus,LS,0
-Lexus,LX570,0
+Lexus,LX,0
 Lexus,NX,0.05
 Lexus,RC,0
-Lexus,RX,0
-Lexus,RX350,0.45
-Lexus,RX450h,0.3
-Lexus,RXh,0
+Lexus,RX,0.1875
 Lexus,UX,0.025
 Lincoln,Corsair,0.25
 Lincoln,Nautilus,0.4
@@ -171,13 +167,13 @@ Lincoln,Navigator,0.5
 Maserati,Ghibli,0.03
 Maserati,Levante,0.02
 Maserati,Quattroporte,0.03
-Mazda,CX-3,0
-Mazda,CX-30,0.05
-Mazda,CX-5,0
-Mazda,CX-9,0
-Mazda,Mazda2,0.05
-Mazda,Mazda3,0.025
-Mazda,Mazda6,0
+Mazda,Mazda CX-3,0
+Mazda,Mazda CX-30,0.05
+Mazda,Mazda CX-5,0
+Mazda,Mazda CX-9,0
+Mazda,Mazda 2,0.05
+Mazda,Mazda 3,0.025
+Mazda,Mazda 6,0
 Mercedes-Benz,A-Class,0.02
 Mercedes-Benz,AMG,0
 Mercedes-Benz,C-Class,0.021111111
@@ -188,8 +184,7 @@ Mercedes-Benz,G-Class,0.02
 Mercedes-Benz,GLA,0
 Mercedes-Benz,GLB,0.05
 Mercedes-Benz,GLC,0.057777778
-Mercedes-Benz,GLE,0.466666667
-Mercedes-Benz,GLE350,0.69
+Mercedes-Benz,GLE,0.578333334
 Mercedes-Benz,GLS,0.4875
 Mercedes-Benz,S-Class,0
 Mitsubishi,Mirage,0
@@ -207,15 +202,15 @@ Nissan,Rogue,0.2
 Nissan,Sentra,0.15
 Nissan,Titan,0.5
 Nissan,Versa,0.15
-Polestar,PS1,0.01
-Polestar,PS2,0.01
+Polestar,Polestar 1,0.01
+Polestar,Polestar 2,0.01
 Porsche,718,0
 Porsche,911,0
 Porsche,Cayenne,0.0025
 Porsche,Macan,0
 Porsche,Taycan,0
 RAM,Promaster,0.34
-RAM,Ram1500,0.566666667
+RAM,1500,0.566666667
 Rolls-Royce,Cullinan,0.05
 Rolls-Royce,Dawn,0.05
 Rolls-Royce,Ghost,0.05
@@ -235,12 +230,12 @@ Toyota,Camry,0.5
 Toyota,C-HR,0
 Toyota,Corolla,0.15
 Toyota,Highlander,0.5
-Toyota,Land,0
+Toyota,Land Cruiser,0
 Toyota,Mirai,0
 Toyota,Prius,0
 Toyota,Rav4,0.6
-Toyota,Rav4-Hybrid,0.35
-Toyota,Rav4-Plug-In,0
+Toyota,Rav4 Hybrid,0.35
+Toyota,Rav4 Plug-In Hybrid,0
 Toyota,Sequoia,0.55
 Toyota,Sienna,0.45
 Toyota,Supra,0.05
