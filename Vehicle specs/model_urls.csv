@@ -1,0 +1,764 @@
+Model,Make,Year,URL,Pct_domestic_content
+Integra,Acura,2023,https://www.caranddriver.com/acura/integra,0.64
+MDX,Acura,2022,https://www.caranddriver.com/acura/mdx,0.64
+ILX,Acura,2022,https://www.caranddriver.com/acura/ilx,0.55
+NSX Type S,Acura,2022,https://www.caranddriver.com/acura/nsx,0.64
+RDX,Acura,2022,https://www.caranddriver.com/acura/rdx,0.65
+TLX,Acura,2021,https://www.caranddriver.com/acura/tlx,0.65
+RLX,Acura,2020,https://www.caranddriver.com/acura/rlx,0.0
+TL,Acura,2014,https://www.caranddriver.com/acura/tl,0.64
+TSX,Acura,2014,https://www.caranddriver.com/acura/tsx,0.64
+ZDX,Acura,2013,https://www.caranddriver.com/acura/zdx,0.64
+RL,Acura,2012,https://www.caranddriver.com/acura/rl,0.64
+Tonale,Alfa Romeo,2022,https://www.caranddriver.com/alfa-romeo/tonale,0.0
+Giulia,Alfa Romeo,2022,https://www.caranddriver.com/alfa-romeo/giulia,0.0
+Giulia Quadrifoglio,Alfa Romeo,2022,https://www.caranddriver.com/alfa-romeo/giulia-quadrifoglio,0.0
+Stelvio,Alfa Romeo,2022,https://www.caranddriver.com/alfa-romeo/stelvio,0.0
+Stelvio Quadrifoglio,Alfa Romeo,2022,https://www.caranddriver.com/alfa-romeo/stelvio-quadrifoglio,0.0
+4C,Alfa Romeo,2020,https://www.caranddriver.com/alfa-romeo/4c,0.0
+GTV,Alfa Romeo,2021,https://www.caranddriver.com/alfa-romeo/gtv,0.12
+8C,Alfa Romeo,2010,https://www.caranddriver.com/alfa-romeo/8c,0.0
+Vanquish,Aston Martin,2024,https://www.caranddriver.com/aston-martin/vanquish,
+DB11,Aston Martin,2022,https://www.caranddriver.com/aston-martin/db11,
+DBS,Aston Martin,2022,https://www.caranddriver.com/aston-martin/dbs,
+DBX,Aston Martin,2022,https://www.caranddriver.com/aston-martin/dbx,
+Valkyrie,Aston Martin,2022,https://www.caranddriver.com/aston-martin/valkyrie,
+Vantage,Aston Martin,2022,https://www.caranddriver.com/aston-martin/vantage,
+Valhalla,Aston Martin,2024,https://www.caranddriver.com/aston-martin/valhalla,
+DBS Superleggera,Aston Martin,2021,https://www.caranddriver.com/aston-martin/dbs-superleggera-2021,
+Rapide,Aston Martin,2019,https://www.caranddriver.com/aston-martin/rapide,
+DB9 GT,Aston Martin,2016,https://www.caranddriver.com/aston-martin/db9-gt,
+Virage,Aston Martin,2012,https://www.caranddriver.com/aston-martin/virage,
+One-77,Aston Martin,2011,https://www.caranddriver.com/aston-martin/one-77,
+A6 e-tron,Audi,2023,https://www.caranddriver.com/audi/a6-e-tron,0.015
+e-tron GT,Audi,2022,https://www.caranddriver.com/audi/e-tron-gt,0.01
+e-tron / e-tron Sportback,Audi,2022,https://www.caranddriver.com/audi/e-tron,0.01
+A3,Audi,2022,https://www.caranddriver.com/audi/a3,0.012857143
+A4,Audi,2022,https://www.caranddriver.com/audi/a4,0.02
+A4 Allroad,Audi,2022,https://www.caranddriver.com/audi/a4-allroad-quattro,0.02
+A5,Audi,2022,https://www.caranddriver.com/audi/a5,0.0175
+A5 Sportback,Audi,2022,https://www.caranddriver.com/audi/a5-sportback,0.0175
+A6,Audi,2022,https://www.caranddriver.com/audi/a6,0.015
+A6 Allroad,Audi,2022,https://www.caranddriver.com/audi/a6-allroad,0.015
+A7,Audi,2022,https://www.caranddriver.com/audi/a7,0.01
+A8,Audi,2022,https://www.caranddriver.com/audi/a8,0.01
+Q3,Audi,2022,https://www.caranddriver.com/audi/q3,0.01
+Q4 e-tron,Audi,2022,https://www.caranddriver.com/audi/q4-e-tron,0.01
+Q5 / Q5 Sportback,Audi,2022,https://www.caranddriver.com/audi/q5,0.023333332999999998
+Q8,Audi,2022,https://www.caranddriver.com/audi/q8,0.01
+RS Q8,Audi,2022,https://www.caranddriver.com/audi/rs-q8,0.01
+RS3,Audi,2022,https://www.caranddriver.com/audi/rs3,0.01
+RS5,Audi,2022,https://www.caranddriver.com/audi/rs5,0.01
+RS5 Sportback,Audi,2022,https://www.caranddriver.com/audi/rs5-sportback,0.01
+RS6 Avant,Audi,2022,https://www.caranddriver.com/audi/rs6-avant,0.01
+RS7,Audi,2022,https://www.caranddriver.com/audi/rs7,0.01
+R8,Audi,2022,https://www.caranddriver.com/audi/r8,0.01
+S3,Audi,2022,https://www.caranddriver.com/audi/s3,0.012857143
+S4,Audi,2022,https://www.caranddriver.com/audi/s4,0.01
+S5,Audi,2022,https://www.caranddriver.com/audi/s5,0.01
+S6,Audi,2022,https://www.caranddriver.com/audi/s6,0.01
+S7,Audi,2022,https://www.caranddriver.com/audi/s7,0.01
+S8,Audi,2022,https://www.caranddriver.com/audi/s8,0.01
+SQ5 / SQ5 Sportback,Audi,2022,https://www.caranddriver.com/audi/sq5,0.023333332999999998
+Q7,Audi,2022,https://www.caranddriver.com/audi/q7,0.01
+SQ7,Audi,2022,https://www.caranddriver.com/audi/sq7,0.01
+SQ8,Audi,2022,https://www.caranddriver.com/audi/sq8,0.01
+TT / TTS,Audi,2022,https://www.caranddriver.com/audi/tt-tts,0.01
+S5 Sportback,Audi,2021,https://www.caranddriver.com/audi/s5-sportback,0.01
+TT RS,Audi,2021,https://www.caranddriver.com/audi/tt-rs,0.01
+A3 Sportback e-tron,Audi,2018,https://www.caranddriver.com/audi/a3-sportback-e-tron,0.01
+RS4,Audi,2008,https://www.caranddriver.com/audi/rs4,0.01
+Continental GT,Bentley,2022,https://www.caranddriver.com/bentley/continental-gt,0.0
+Bentayga,Bentley,2022,https://www.caranddriver.com/bentley/bentayga,0.0
+Flying Spur,Bentley,2022,https://www.caranddriver.com/bentley/flying-spur,0.0
+Mulsanne,Bentley,2020,https://www.caranddriver.com/bentley/mulsanne,0.0
+Mulsanne Speed,Bentley,2020,https://www.caranddriver.com/bentley/mulsanne-speed,0.0
+Continental Supersports,Bentley,2018,https://www.caranddriver.com/bentley/continental-supersports,0.01
+Continental GT Speed,Bentley,2012,https://www.caranddriver.com/bentley/continental-gt-speed,0.0
+Azure,Bentley,2010,https://www.caranddriver.com/bentley/azure,0.0
+Brooklands,Bentley,2010,https://www.caranddriver.com/bentley/brooklands,0.0
+Arnage,Bentley,2009,https://www.caranddriver.com/bentley/arnage,0.0
+i8 M,BMW,2024,https://www.caranddriver.com/bmw/i8-m,0.136551724
+2-series,BMW,2022,https://www.caranddriver.com/bmw/2-series,0.05
+BMW 2-Series Gran Coupe,BMW,2022,https://www.caranddriver.com/bmw/2-series-gran-coupe,0.05
+3-Series,BMW,2022,https://www.caranddriver.com/bmw/3-series,0.075
+4-series,BMW,2022,https://www.caranddriver.com/bmw/4-series,0.05
+4-Series Gran Coupe,BMW,2022,https://www.caranddriver.com/bmw/4-series-gran-coupe,0.05
+7-Series,BMW,2022,https://www.caranddriver.com/bmw/7-series,0.05
+8-Series,BMW,2022,https://www.caranddriver.com/bmw/8-series,0.05
+8-Series Gran Coupe,BMW,2022,https://www.caranddriver.com/bmw/8-series-gran-coupe,0.05
+i4,BMW,2022,https://www.caranddriver.com/bmw/i4,0.136551724
+iX,BMW,2022,https://www.caranddriver.com/bmw/ix,0.136551724
+M3,BMW,2022,https://www.caranddriver.com/bmw/m3,0.136551724
+M4,BMW,2022,https://www.caranddriver.com/bmw/m4,0.136551724
+M5,BMW,2022,https://www.caranddriver.com/bmw/m5,0.136551724
+M8,BMW,2022,https://www.caranddriver.com/bmw/m8,0.136551724
+M8 Gran Coupe,BMW,2022,https://www.caranddriver.com/bmw/m8-gran-coupe,0.136551724
+X1,BMW,2022,https://www.caranddriver.com/bmw/x1,0.05
+X2,BMW,2022,https://www.caranddriver.com/bmw/x2,0.05
+X3,BMW,2022,https://www.caranddriver.com/bmw/x3,0.3
+X3 M,BMW,2022,https://www.caranddriver.com/bmw/x3-m,0.3
+X4,BMW,2022,https://www.caranddriver.com/bmw/x4,0.31
+X4 M,BMW,2022,https://www.caranddriver.com/bmw/x4-m,0.31
+X5,BMW,2022,https://www.caranddriver.com/bmw/x5,0.36
+X5 M,BMW,2022,https://www.caranddriver.com/bmw/x5-m,0.36
+X6,BMW,2022,https://www.caranddriver.com/bmw/x6,0.3
+X6 M,BMW,2022,https://www.caranddriver.com/bmw/x6-m,0.3
+X7,BMW,2022,https://www.caranddriver.com/bmw/x7,0.32
+X8,BMW,2022,https://www.caranddriver.com/bmw/x8,0.136551724
+Z4,BMW,2022,https://www.caranddriver.com/bmw/z4,0.05
+5-Series,BMW,2022,https://www.caranddriver.com/bmw/5-series,0.05
+M2,BMW,2021,https://www.caranddriver.com/bmw/m2,0.136551724
+i3,BMW,2021,https://www.caranddriver.com/bmw/i3,0.05
+i8,BMW,2020,https://www.caranddriver.com/bmw/i8,0.136551724
+3-series Wagon,BMW,2019,https://www.caranddriver.com/bmw/3-series-wagon,0.075
+6-series Gran Coupe,BMW,2019,https://www.caranddriver.com/bmw/6-series-gran-coupe,0.475
+6-series Gran Turismo,BMW,2019,https://www.caranddriver.com/bmw/6-series-gran-turismo,0.475
+M6 Gran Coupe,BMW,2019,https://www.caranddriver.com/bmw/m6-gran-coupe,0.136551724
+6-series,BMW,2018,https://www.caranddriver.com/bmw/6-series,0.475
+M6,BMW,2018,https://www.caranddriver.com/bmw/m6,0.136551724
+1-series,BMW,2013,https://www.caranddriver.com/bmw/1-series,0.475
+Taycan Cross Turismo,BMW,2022,https://www.caranddriver.com/porsche/taycan-cross-turismo,0.05
+B1,Bollinger,2022,https://www.caranddriver.com/bollinger/b1,
+B2,Bollinger,2022,https://www.caranddriver.com/bollinger/b2,
+Chiron,Bugatti,2021,https://www.caranddriver.com/bugatti/chiron,0.0
+Divo,Bugatti,2020,https://www.caranddriver.com/bugatti/divo,0.0
+Veyron,Bugatti,2014,https://www.caranddriver.com/bugatti/veyron,0.0
+Enclave,Buick,2022,https://www.caranddriver.com/buick/enclave,0.49
+Encore,Buick,2022,https://www.caranddriver.com/buick/encore,0.035
+Encore GX,Buick,2022,https://www.caranddriver.com/buick/encore-gx,0.035
+Envision,Buick,2022,https://www.caranddriver.com/buick/envision,0.05
+Regal GS,Buick,2020,https://www.caranddriver.com/buick/regal-gs,0.18666666699999998
+Regal Sportback,Buick,2020,https://www.caranddriver.com/buick/regal-sportback,0.0
+Regal TourX,Buick,2020,https://www.caranddriver.com/buick/regal-tourx,0.1875
+LaCrosse,Buick,2019,https://www.caranddriver.com/buick/lacrosse,0.0
+Cascada,Buick,2019,https://www.caranddriver.com/buick/cascada,0.18666666699999998
+Regal,Buick,2017,https://www.caranddriver.com/buick/regal,0.18666666699999998
+Verano,Buick,2017,https://www.caranddriver.com/buick/verano,0.18666666699999998
+Lucerne,Buick,2011,https://www.caranddriver.com/buick/lucerne,0.18666666699999998
+M-Byte,Byton,2022,https://www.caranddriver.com/byton/m-byte,
+Celestiq,Cadillac,2025,https://www.caranddriver.com/cadillac/celestiq,0.475
+Lyriq,Cadillac,2023,https://www.caranddriver.com/cadillac/lyriq,0.48
+CT4,Cadillac,2022,https://www.caranddriver.com/cadillac/ct4,0.49
+CT4-V Blackwing,Cadillac,2022,https://www.caranddriver.com/cadillac/ct4-v-blackwing,0.49
+CT5,Cadillac,2022,https://www.caranddriver.com/cadillac/ct5,0.49
+CT5-V Blackwing,Cadillac,2022,https://www.caranddriver.com/cadillac/ct5-v-blackwing,0.49
+Escalade,Cadillac,2022,https://www.caranddriver.com/cadillac/escalade-escalade-esv,0.46
+XT4,Cadillac,2022,https://www.caranddriver.com/cadillac/xt4,0.46
+XT5,Cadillac,2022,https://www.caranddriver.com/cadillac/xt5,0.49
+XT6,Cadillac,2022,https://www.caranddriver.com/cadillac/xt6,0.49
+CT6,Cadillac,2020,https://www.caranddriver.com/cadillac/ct6,0.48
+ATS,Cadillac,2019,https://www.caranddriver.com/cadillac/ats,0.48
+ATS-V,Cadillac,2019,https://www.caranddriver.com/cadillac/ats-v,0.48
+CTS,Cadillac,2019,https://www.caranddriver.com/cadillac/cts,0.48
+CTS-V,Cadillac,2019,https://www.caranddriver.com/cadillac/cts-v,0.48
+XTS,Cadillac,2019,https://www.caranddriver.com/cadillac/xts,0.48
+ELR,Cadillac,2016,https://www.caranddriver.com/cadillac/elr,0.48
+SRX,Cadillac,2016,https://www.caranddriver.com/cadillac/srx,0.1875
+Escalade EXT,Cadillac,2013,https://www.caranddriver.com/cadillac/escalade-ext,0.46
+DTS,Cadillac,2011,https://www.caranddriver.com/cadillac/dts,0.48
+STS,Cadillac,2011,https://www.caranddriver.com/cadillac/sts,0.48
+XLR,Cadillac,2009,https://www.caranddriver.com/cadillac/xlr,0.48
+Silverado EV,Chevrolet,2023,https://www.caranddriver.com/chevrolet/silverado-ev,0.46
+Blazer,Chevrolet,2022,https://www.caranddriver.com/chevrolet/blazer,0.49
+Bolt EUV,Chevrolet,2022,https://www.caranddriver.com/chevrolet/bolt-euv,0.397692308
+Bolt EV,Chevrolet,2022,https://www.caranddriver.com/chevrolet/bolt-ev,0.397692308
+Colorado,Chevrolet,2022,https://www.caranddriver.com/chevrolet/colorado,0.6
+Corvette,Chevrolet,2022,https://www.caranddriver.com/chevrolet/corvette,0.01
+Corvette Z06,Chevrolet,2023,https://www.caranddriver.com/chevrolet/corvette-z06,0.01
+Equinox,Chevrolet,2022,https://www.caranddriver.com/chevrolet/equinox,0.38
+Silverado 1500,Chevrolet,2022,https://www.caranddriver.com/chevrolet/silverado-1500,0.46
+Silverado ZR2,Chevrolet,2022,https://www.caranddriver.com/chevrolet/silverado-1500-zr2,0.46
+Silverado HD,Chevrolet,2022,https://www.caranddriver.com/chevrolet/silverado-2500hd-3500hd,0.46
+Suburban,Chevrolet,2022,https://www.caranddriver.com/chevrolet/suburban,0.46
+Tahoe,Chevrolet,2022,https://www.caranddriver.com/chevrolet/tahoe,0.46
+Trailblazer,Chevrolet,2022,https://www.caranddriver.com/chevrolet/trailblazer,0.49
+Trax,Chevrolet,2022,https://www.caranddriver.com/chevrolet/trax,0.04
+Traverse,Chevrolet,2022,https://www.caranddriver.com/chevrolet/traverse,0.01
+Camaro,Chevrolet,2021,https://www.caranddriver.com/chevrolet/camaro,0.57
+Camaro ZL1,Chevrolet,2021,https://www.caranddriver.com/chevrolet/camaro-zl1,0.57
+Express,Chevrolet,2021,https://www.caranddriver.com/chevrolet/express,0.475
+Malibu,Chevrolet,2021,https://www.caranddriver.com/chevrolet/malibu,0.46
+Spark,Chevrolet,2021,https://www.caranddriver.com/chevrolet/spark,0.01
+Sonic,Chevrolet,2020,https://www.caranddriver.com/chevrolet/sonic,0.397692308
+Corvette ZR1,Chevrolet,2019,https://www.caranddriver.com/chevrolet/corvette-zr1,0.01
+Cruze,Chevrolet,2019,https://www.caranddriver.com/chevrolet/cruze,0.397692308
+Impala,Chevrolet,2019,https://www.caranddriver.com/chevrolet/impala,0.397692308
+Volt,Chevrolet,2019,https://www.caranddriver.com/chevrolet/volt,0.397692308
+City Express,Chevrolet,2018,https://www.caranddriver.com/chevrolet/city-express,0.475
+Silverado 2500HD/3500HD,Chevrolet,2018,https://www.caranddriver.com/chevrolet/silverado-2500hd,0.46
+SS,Chevrolet,2017,https://www.caranddriver.com/chevrolet/ss-archive,0.397692308
+Spark EV,Chevrolet,2016,https://www.caranddriver.com/chevrolet/spark-ev,0.01
+Camaro Z/28,Chevrolet,2015,https://www.caranddriver.com/chevrolet/camaro-z-28,0.57
+Avalanche,Chevrolet,2013,https://www.caranddriver.com/chevrolet/avalanche,0.397692308
+Aveo,Chevrolet,2011,https://www.caranddriver.com/chevrolet/aveo,0.397692308
+HHR,Chevrolet,2011,https://www.caranddriver.com/chevrolet/hhr,0.397692308
+Cobalt,Chevrolet,2010,https://www.caranddriver.com/chevrolet/cobalt,0.397692308
+300,Chrysler,2022,https://www.caranddriver.com/chrysler/300,0.69
+Pacifica,Chrysler,2022,https://www.caranddriver.com/chrysler/pacifica,0.68
+Voyager,Chrysler,2022,https://www.caranddriver.com/chrysler/voyager,0.68
+200,Chrysler,2017,https://www.caranddriver.com/chrysler/200,0.683333333
+Town & Country,Chrysler,2016,https://www.caranddriver.com/chrysler/town-country,0.683333333
+300 SRT,Chrysler,2014,https://www.caranddriver.com/chrysler/300-srt,0.69
+PT Cruiser,Chrysler,2010,https://www.caranddriver.com/chrysler/pt-cruiser,0.05
+Sebring,Chrysler,2010,https://www.caranddriver.com/chrysler/sebring,0.683333333
+Aspen,Chrysler,2009,https://www.caranddriver.com/chrysler/aspen,0.683333333
+Challenger eMuscle,Dodge,2024,https://www.caranddriver.com/dodge/challenger-emuscle,0.66
+Challenger,Dodge,2022,https://www.caranddriver.com/dodge/challenger,0.66
+Challenger SRT Hellcat,Dodge,2022,https://www.caranddriver.com/dodge/challenger-srt-srt-hellcat,0.66
+Charger,Dodge,2022,https://www.caranddriver.com/dodge/charger,0.7
+Charger SRT Hellcat,Dodge,2022,https://www.caranddriver.com/dodge/charger-srt-hellcat,0.7
+Durango,Dodge,2022,https://www.caranddriver.com/dodge/durango,0.67
+Durango SRT,Dodge,2022,https://www.caranddriver.com/dodge/durango-srt,0.67
+Durango SRT Hellcat,Dodge,2021,https://www.caranddriver.com/dodge/durango-srt-hellcat,0.67
+Grand Caravan,Dodge,2020,https://www.caranddriver.com/dodge/grand-caravan,0.67
+Journey,Dodge,2020,https://www.caranddriver.com/dodge/journey,0.676666667
+Challenger SRT Demon,Dodge,2018,https://www.caranddriver.com/dodge/challenger-srt-demon,0.66
+Challenger SRT 392 / SRT Hellcat,Dodge,2017,https://www.caranddriver.com/dodge/challenger-srt-392-srt-hellcat-2017,0.66
+Viper,Dodge,2017,https://www.caranddriver.com/dodge/viper,0.676666667
+Dart,Dodge,2016,https://www.caranddriver.com/dodge/dart,0.676666667
+Avenger,Dodge,2014,https://www.caranddriver.com/dodge/avenger,0.676666667
+Caliber,Dodge,2012,https://www.caranddriver.com/dodge/caliber,0.676666667
+Magnum,Dodge,2008,https://www.caranddriver.com/dodge/magnum,0.676666667
+Nitro,Dodge,2011,https://www.caranddriver.com/dodge/nitro,0.676666667
+296GTB,Ferrari,2022,https://www.caranddriver.com/ferrari/296-gtb,
+SF90 Stradale / Spider,Ferrari,2022,https://www.caranddriver.com/ferrari/sf90-stradale,
+812 Superfast / GTS,Ferrari,2021,https://www.caranddriver.com/ferrari/812-superfast,
+F8 Tributo / Spider,Ferrari,2021,https://www.caranddriver.com/ferrari/f8-tributo-spider,
+Portofino M,Ferrari,2021,https://www.caranddriver.com/ferrari/portofino,
+Purosangue,Ferrari,2022,https://www.caranddriver.com/ferrari/purosangue,
+Roma,Ferrari,2021,https://www.caranddriver.com/ferrari/roma,
+488 Pista,Ferrari,2020,https://www.caranddriver.com/ferrari/488,
+GTC4Lusso,Ferrari,2020,https://www.caranddriver.com/ferrari/gtc4lusso,
+California T,Ferrari,2017,https://www.caranddriver.com/ferrari/california-t,
+F12berlinetta,Ferrari,2016,https://www.caranddriver.com/ferrari/f12berlinetta,
+FF,Ferrari,2016,https://www.caranddriver.com/ferrari/ff,
+LaFerrari,Ferrari,2015,https://www.caranddriver.com/ferrari/laferrari,
+599GTB Fiorano,Ferrari,2012,https://www.caranddriver.com/ferrari/599gtb-fiorano,
+F430,Ferrari,2010,https://www.caranddriver.com/ferrari/f430,
+500X,Fiat,2021,https://www.caranddriver.com/fiat/500x,0.0
+124 Spider,Fiat,2020,https://www.caranddriver.com/fiat/124-spider,0.0
+500L,Fiat,2020,https://www.caranddriver.com/fiat/500l,0.0
+500,Fiat,2019,https://www.caranddriver.com/fiat/500,0.0
+500 Abarth,Fiat,2019,https://www.caranddriver.com/fiat/500-500c-abarth,0.0
+500e,Fiat,2019,https://www.caranddriver.com/fiat/500e,0.0
+Ocean,Fisker,2022,https://www.caranddriver.com/fisker/ocean,
+Karma,Fisker,2013,https://www.caranddriver.com/fisker/karma,
+F-150 Lightning,Ford,2022,https://www.caranddriver.com/ford/f-150-lightning,0.55
+Bronco Raptor,Ford,2023,https://www.caranddriver.com/ford/bronco-raptor,0.61
+Ranger,Ford,2023,https://www.caranddriver.com/ford/ranger,0.45
+Ranger Raptor,Ford,2023,https://www.caranddriver.com/ford/ranger-raptor,0.45
+E-Transit,Ford,2022,https://www.caranddriver.com/ford/e-transit,0.15
+Edge,Ford,2022,https://www.caranddriver.com/ford/edge,0.41
+Expedition,Ford,2022,https://www.caranddriver.com/ford/expedition,0.6
+Explorer,Ford,2022,https://www.caranddriver.com/ford/explorer,0.48
+GT,Ford,2022,https://www.caranddriver.com/ford/gt,0.12
+Maverick,Ford,2022,https://www.caranddriver.com/ford/maverick,0.39285714299999996
+Mustang,Ford,2022,https://www.caranddriver.com/ford/mustang,0.77
+Mustang Mach-E,Ford,2022,https://www.caranddriver.com/ford/mustang-mach-e,0.77
+Super Duty,Ford,2022,https://www.caranddriver.com/ford/super-duty,0.39285714299999996
+Bronco,Ford,2021,https://www.caranddriver.com/ford/bronco,0.61
+Bronco Sport,Ford,2021,https://www.caranddriver.com/ford/bronco-sport,0.61
+EcoSport,Ford,2021,https://www.caranddriver.com/ford/ecosport,0.16
+Escape,Ford,2022,https://www.caranddriver.com/ford/escape,0.4
+F-150,Ford,2021,https://www.caranddriver.com/ford/f-150,0.55
+F-150 Raptor,Ford,2021,https://www.caranddriver.com/ford/f-150-raptor,0.55
+Ford Fusion Active,Ford,2021,https://www.caranddriver.com/ford/fusion-active,0.39285714299999996
+Mustang Shelby GT500,Ford,2021,https://www.caranddriver.com/ford/mustang-shelby-gt500,0.12
+Transit,Ford,2021,https://www.caranddriver.com/ford/transit,0.15
+Transit Connect,Ford,2021,https://www.caranddriver.com/ford/transit-connect,0.15
+Fusion / Fusion Hybrid,Ford,2020,https://www.caranddriver.com/ford/fusion,0.39285714299999996
+Mustang Shelby GT350,Ford,2020,https://www.caranddriver.com/ford/mustang-shelby-gt350-gt350r,0.12
+Fiesta,Ford,2019,https://www.caranddriver.com/ford/fiesta,0.475
+Fiesta ST,Ford,2019,https://www.caranddriver.com/ford/fiesta-st,0.475
+Flex,Ford,2019,https://www.caranddriver.com/ford/flex,0.39285714299999996
+Taurus,Ford,2019,https://www.caranddriver.com/ford/taurus,0.0
+C-Max,Ford,2018,https://www.caranddriver.com/ford/c-max,0.39285714299999996
+Focus,Ford,2018,https://www.caranddriver.com/ford/focus,0.39285714299999996
+Focus Electric,Ford,2018,https://www.caranddriver.com/ford/focus-electric,0.39285714299999996
+Focus RS,Ford,2018,https://www.caranddriver.com/ford/focus-rs,0.01
+Focus ST,Ford,2018,https://www.caranddriver.com/ford/focus-st,0.39285714299999996
+C-Max / C-Max Energi,Ford,2017,https://www.caranddriver.com/ford/c-max-c-max-energi-2017,0.39285714299999996
+F-Series Super Duty,Ford,2017,https://www.caranddriver.com/ford/f-series-super-duty-2017,0.475
+Explorer Sport Trac,Ford,2010,https://www.caranddriver.com/ford/explorer-sport-trac,0.48
+Taurus X,Ford,2009,https://www.caranddriver.com/ford/taurus-x,0.0
+G70,Genesis,2022,https://www.caranddriver.com/genesis/g70,0.05
+G80,Genesis,2022,https://www.caranddriver.com/genesis/g80,0.0
+Electrified G80,Genesis,2022,https://www.caranddriver.com/genesis/electrified-g80,0.0
+GV70,Genesis,2022,https://www.caranddriver.com/genesis/gv70,0.025
+GV80,Genesis,2021,https://www.caranddriver.com/genesis/gv80,0.05
+G90,Genesis,2021,https://www.caranddriver.com/genesis/g90,0.0
+Hummer EV,GMC,2022,https://www.caranddriver.com/gmc/hummer-ev,0.478
+Hummer EV SUV,GMC,2024,https://www.caranddriver.com/gmc/hummer-ev-suv,0.478
+Sierra EV,GMC,2023,https://www.caranddriver.com/gmc/sierra-ev,0.46
+Acadia,GMC,2022,https://www.caranddriver.com/gmc/acadia,0.49
+Canyon,GMC,2022,https://www.caranddriver.com/gmc/canyon,0.6
+Sierra 1500,GMC,2022,https://www.caranddriver.com/gmc/sierra-1500,0.46
+Terrain,GMC,2022,https://www.caranddriver.com/gmc/terrain,0.38
+Yukon,GMC,2022,https://www.caranddriver.com/gmc/yukon-yukon-xl,0.46
+Savana,GMC,2021,https://www.caranddriver.com/gmc/savana,0.478
+Sierra HD,GMC,2021,https://www.caranddriver.com/gmc/sierra-2500hd-3500hd,0.46
+Envoy,GMC,2009,https://www.caranddriver.com/gmc/envoy,0.478
+Civic,Honda,2022,https://www.caranddriver.com/honda/civic,0.457142857
+Prologue,Honda,2024,https://www.caranddriver.com/honda/prologue,0.514516129
+CR-V,Honda,2023,https://www.caranddriver.com/honda/cr-v,0.566666667
+HR-V,Honda,2023,https://www.caranddriver.com/honda/hr-v,0.2
+Accord,Honda,2022,https://www.caranddriver.com/honda/accord,0.56
+Civic Si,Honda,2022,https://www.caranddriver.com/honda/civic-si,0.457142857
+Civic Type R,Honda,2022,https://www.caranddriver.com/honda/civic-type-r,0.457142857
+Insight,Honda,2022,https://www.caranddriver.com/honda/insight,0.425
+Odyssey,Honda,2022,https://www.caranddriver.com/honda/odyssey,0.7
+Passport,Honda,2022,https://www.caranddriver.com/honda/passport,0.7
+Pilot,Honda,2022,https://www.caranddriver.com/honda/pilot,0.7
+Clarity,Honda,2021,https://www.caranddriver.com/honda/clarity,0.1
+Ridgeline,Honda,2021,https://www.caranddriver.com/honda/ridgeline,0.514516129
+Fit,Honda,2020,https://www.caranddriver.com/honda/fit,0.514516129
+CR-Z,Honda,2016,https://www.caranddriver.com/honda/cr-z,0.514516129
+Fit EV,Honda,2014,https://www.caranddriver.com/honda/fit-ev,0.514516129
+FCX Clarity,Honda,2012,https://www.caranddriver.com/honda/fcx-clarity,0.1
+Element,Honda,2011,https://www.caranddriver.com/honda/element,0.514516129
+S2000,Honda,2009,https://www.caranddriver.com/honda/s2000,0.514516129
+RM20 N,Hyundai,2023,https://www.caranddriver.com/hyundai/rm20-n,0.0825
+Accent,Hyundai,2022,https://www.caranddriver.com/hyundai/accent,0.05
+Elantra,Hyundai,2022,https://www.caranddriver.com/hyundai/elantra,0.18333333300000001
+Elantra N,Hyundai,2022,https://www.caranddriver.com/hyundai/elantra-n,0.18333333300000001
+Ioniq 5,Hyundai,2022,https://www.caranddriver.com/hyundai/ioniq-5,0.0
+Kona,Hyundai,2022,https://www.caranddriver.com/hyundai/kona,0.0
+Kona Electric,Hyundai,2022,https://www.caranddriver.com/hyundai/kona-electric,0.0
+Kona N,Hyundai,2022,https://www.caranddriver.com/hyundai/kona-n,0.0
+Nexo,Hyundai,2022,https://www.caranddriver.com/hyundai/nexo,0.0
+Palisade,Hyundai,2022,https://www.caranddriver.com/hyundai/palisade,0.05
+Santa Cruz,Hyundai,2022,https://www.caranddriver.com/hyundai/santa-cruz,0.5
+Santa Fe,Hyundai,2022,https://www.caranddriver.com/hyundai/santa-fe,0.5
+Sonata,Hyundai,2022,https://www.caranddriver.com/hyundai/sonata,0.15
+Tucson,Hyundai,2022,https://www.caranddriver.com/hyundai/tucson,0.0
+Veloster N,Hyundai,2022,https://www.caranddriver.com/hyundai/veloster-n,0.025
+Venue,Hyundai,2022,https://www.caranddriver.com/hyundai/venue,0.0
+Ioniq,Hyundai,2022,https://www.caranddriver.com/hyundai/ioniq,0.0
+Ioniq Electric,Hyundai,2021,https://www.caranddriver.com/hyundai/ioniq-electric,0.0
+Veloster,Hyundai,2021,https://www.caranddriver.com/hyundai/veloster,0.025
+Elantra GT,Hyundai,2020,https://www.caranddriver.com/hyundai/elantra-gt,0.12
+Elantra Sport,Hyundai,2018,https://www.caranddriver.com/hyundai/elantra-sport-2018,0.18333333300000001
+Santa Fe Sport,Hyundai,2018,https://www.caranddriver.com/hyundai/santa-fe-sport,0.5
+Azera,Hyundai,2017,https://www.caranddriver.com/hyundai/azera,0.0825
+Equus,Hyundai,2016,https://www.caranddriver.com/hyundai/equus,0.0825
+Genesis,Hyundai,2016,https://www.caranddriver.com/hyundai/genesis,0.475
+Genesis coupe,Hyundai,2016,https://www.caranddriver.com/hyundai/genesis-coupe,0.475
+Tucson Fuel Cell,Hyundai,2016,https://www.caranddriver.com/hyundai/tucson-fuel-cell,0.0
+Elantra Touring,Hyundai,2012,https://www.caranddriver.com/hyundai/elantra-touring,0.18333333300000001
+Veracruz,Hyundai,2012,https://www.caranddriver.com/hyundai/veracruz,0.0825
+Entourage,Hyundai,2009,https://www.caranddriver.com/hyundai/entourage,0.0825
+Tiburon,Hyundai,2008,https://www.caranddriver.com/hyundai/tiburon,0.0825
+QX55,Infiniti,2022,https://www.caranddriver.com/infiniti/qx55,0.36
+Q50,Infiniti,2022,https://www.caranddriver.com/infiniti/q50,0.023333332999999998
+Q60,Infiniti,2022,https://www.caranddriver.com/infiniti/q60,0.0
+QX50,Infiniti,2022,https://www.caranddriver.com/infiniti/qx50,0.36
+QX60,Infiniti,2022,https://www.caranddriver.com/infiniti/qx60,0.3
+QX80,Infiniti,2022,https://www.caranddriver.com/infiniti/qx80,0.0
+Q50 Red Sport 400,Infiniti,2020,https://www.caranddriver.com/infiniti/q50-red-sport-400,0.023333332999999998
+Q60 Red Sport 400,Infiniti,2020,https://www.caranddriver.com/infiniti/q60-red-sport-400,0.0
+Q70,Infiniti,2019,https://www.caranddriver.com/infiniti/q70,0.01
+QX30,Infiniti,2019,https://www.caranddriver.com/infiniti/qx30,0.3
+QX70,Infiniti,2017,https://www.caranddriver.com/infiniti/qx70,0.32
+EX37,Infiniti,2013,https://www.caranddriver.com/infiniti/ex,0.3
+G25 / G37,Infiniti,2013,https://www.caranddriver.com/infiniti/g,0.025
+JX35,Infiniti,2013,https://www.caranddriver.com/infiniti/jx,0.3
+M35 / M37 / M56,Infiniti,2013,https://www.caranddriver.com/infiniti/m,0.025
+QX56,Infiniti,2013,https://www.caranddriver.com/infiniti/qx,0.36
+F-type,Jaguar,2022,https://www.caranddriver.com/jaguar/f-type,0.016
+E-Pace,Jaguar,2022,https://www.caranddriver.com/jaguar/e-pace,0.145
+F-Pace,Jaguar,2022,https://www.caranddriver.com/jaguar/f-pace,0.0
+F-Pace SVR,Jaguar,2022,https://www.caranddriver.com/jaguar/f-pace-svr,0.0
+I-Pace,Jaguar,2022,https://www.caranddriver.com/jaguar/i-pace,0.016
+XF,Jaguar,2022,https://www.caranddriver.com/jaguar/xf,0.04
+J-Pace,Jaguar,2021,https://www.caranddriver.com/jaguar/j-pace,0.016
+F-type R / SVR,Jaguar,2020,https://www.caranddriver.com/jaguar/f-type-r-svr,0.016
+XE,Jaguar,2020,https://www.caranddriver.com/jaguar/xe,0.016
+XF Sportbrake,Jaguar,2020,https://www.caranddriver.com/jaguar/xf-sportbrake,0.04
+XJ,Jaguar,2019,https://www.caranddriver.com/jaguar/xj,0.016
+XJR575,Jaguar,2019,https://www.caranddriver.com/jaguar/xjr575,0.016
+XK,Jaguar,2015,https://www.caranddriver.com/jaguar/xk,0.016
+XKR / XKR-S,Jaguar,2015,https://www.caranddriver.com/jaguar/xkr-xkr-s,0.016
+Grand Cherokee,Jeep,2022,https://www.caranddriver.com/jeep/grand-cherokee,0.71
+Compass,Jeep,2022,https://www.caranddriver.com/jeep/compass,0.2
+Grand Wagoneer,Jeep,2022,https://www.caranddriver.com/jeep/grand-wagoneer,0.67
+Wagoneer,Jeep,2022,https://www.caranddriver.com/jeep/wagoneer,0.495
+Wrangler,Jeep,2022,https://www.caranddriver.com/jeep/wrangler,0.6
+Cherokee,Jeep,2021,https://www.caranddriver.com/jeep/cherokee,0.71
+Gladiator,Jeep,2021,https://www.caranddriver.com/jeep/gladiator,0.65
+Grand Cherokee L,Jeep,2021,https://www.caranddriver.com/jeep/grand-cherokee-l,0.71
+Grand Cherokee SRT,Jeep,2021,https://www.caranddriver.com/jeep/grand-cherokee-srt,0.71
+Grand Cherokee Trackhawk,Jeep,2021,https://www.caranddriver.com/jeep/grand-cherokee-trackhawk,0.71
+Renegade,Jeep,2021,https://www.caranddriver.com/jeep/renegade,0.14
+Grand Cherokee SRT / Trackhawk,Jeep,2018,https://www.caranddriver.com/jeep/grand-cherokee-srt-trackhawk-2018,0.71
+Patriot,Jeep,2017,https://www.caranddriver.com/jeep/patriot,0.05
+Liberty,Jeep,2012,https://www.caranddriver.com/jeep/liberty,0.495
+Commander,Jeep,2010,https://www.caranddriver.com/jeep/commander,0.495
+GS-6 and Revero GT,Karma,2021,https://www.caranddriver.com/karma/gs-6-revero-gt,
+Sportage,Kia,2023,https://www.caranddriver.com/kia/sportage,0.0
+Carnival,Kia,2022,https://www.caranddriver.com/kia/carnival,0.11785714300000001
+EV6,Kia,2022,https://www.caranddriver.com/kia/ev6,0.11785714300000001
+Forte,Kia,2022,https://www.caranddriver.com/kia/forte,0.05
+K5,Kia,2022,https://www.caranddriver.com/kia/k5,0.55
+Niro EV,Kia,2022,https://www.caranddriver.com/kia/niro-ev,0.0
+Seltos,Kia,2022,https://www.caranddriver.com/kia/seltos,0.0
+Sorento,Kia,2022,https://www.caranddriver.com/kia/sorento,0.5
+Soul,Kia,2022,https://www.caranddriver.com/kia/soul,0.0
+Stinger,Kia,2022,https://www.caranddriver.com/kia/stinger,0.0
+Telluride,Kia,2022,https://www.caranddriver.com/kia/telluride,0.5
+Niro,Kia,2022,https://www.caranddriver.com/kia/niro,0.0
+Rio,Kia,2021,https://www.caranddriver.com/kia/rio,0.05
+Sedona,Kia,2021,https://www.caranddriver.com/kia/sedona-2021,0.0
+Cadenza,Kia,2020,https://www.caranddriver.com/kia/cadenza,0.11785714300000001
+K900,Kia,2020,https://www.caranddriver.com/kia/k900,0.11785714300000001
+Optima,Kia,2020,https://www.caranddriver.com/kia/optima,0.11785714300000001
+Soul EV,Kia,2021,https://www.caranddriver.com/kia/soul-ev,0.0
+Forte Koup,Kia,2016,https://www.caranddriver.com/kia/forte-koup,0.05
+Borrego,Kia,2010,https://www.caranddriver.com/kia/borrego,0.11785714300000001
+Rondo,Kia,2010,https://www.caranddriver.com/kia/rondo,0.11785714300000001
+Amanti,Kia,2009,https://www.caranddriver.com/kia/amanti,0.11785714300000001
+Spectra,Kia,2009,https://www.caranddriver.com/kia/spectra,0.11785714300000001
+Spectra5,Kia,2009,https://www.caranddriver.com/kia/spectra5,0.0175
+Jesko,Koenigsegg,2021,https://www.caranddriver.com/koenigsegg/jesko,
+Regera,Koenigsegg,2020,https://www.caranddriver.com/koenigsegg/regera,
+Urus,Lamborghini,2021,https://www.caranddriver.com/lamborghini/urus,0.0
+Countach,Lamborghini,2022,https://www.caranddriver.com/lamborghini/countach,0.0
+Aventador,Lamborghini,2022,https://www.caranddriver.com/lamborghini/aventador,0.0
+Huracán,Lamborghini,2021,https://www.caranddriver.com/lamborghini/huracan,0.0
+Sián,Lamborghini,2021,https://www.caranddriver.com/lamborghini/sian,0.0
+Gallardo,Lamborghini,2014,https://www.caranddriver.com/lamborghini/gallardo,0.0
+Murciélago,Lamborghini,2009,https://www.caranddriver.com/lamborghini/murcielago,0.0
+Defender 80,Land Rover,2023,https://www.caranddriver.com/land-rover/defender-80,0.01
+Discovery,Land Rover,2023,https://www.caranddriver.com/land-rover/discovery,0.07
+Defender,Land Rover,2022,https://www.caranddriver.com/land-rover/defender,0.01
+Discovery Sport,Land Rover,2022,https://www.caranddriver.com/land-rover/discovery-sport,0.0
+Range Rover Evoque,Land Rover,2022,https://www.caranddriver.com/land-rover/range-rover-evoque,0.45
+Range Rover,Land Rover,2022,https://www.caranddriver.com/land-rover/range-rover,0.45
+Range Rover Sport,Land Rover,2022,https://www.caranddriver.com/land-rover/range-rover-sport,0.45
+Range Rover Sport Supercharged,Land Rover,2022,https://www.caranddriver.com/land-rover/range-rover-sport-supercharged-svr,0.7
+Range Rover Velar,Land Rover,2022,https://www.caranddriver.com/land-rover/range-rover-velar,0.45
+LR4,Land Rover,2016,https://www.caranddriver.com/land-rover/lr4,0.07875
+LR2,Land Rover,2015,https://www.caranddriver.com/land-rover/lr2,0.07875
+LR3,Land Rover,2009,https://www.caranddriver.com/land-rover/lr3,0.07875
+ES,Lexus,2022,https://www.caranddriver.com/lexus/es,0.475
+GX,Lexus,2022,https://www.caranddriver.com/lexus/gx,0.0
+IS,Lexus,2022,https://www.caranddriver.com/lexus/is,0.05
+LC,Lexus,2022,https://www.caranddriver.com/lexus/lc,0.0
+LS,Lexus,2022,https://www.caranddriver.com/lexus/ls,0.0
+LQ,Lexus,2022,https://www.caranddriver.com/lexus/lq,0.095
+LX,Lexus,2022,https://www.caranddriver.com/lexus/lx,0.0
+NX,Lexus,2022,https://www.caranddriver.com/lexus/nx,0.05
+RC,Lexus,2022,https://www.caranddriver.com/lexus/rc,0.0
+RX,Lexus,2022,https://www.caranddriver.com/lexus/rx,0.1875
+UX,Lexus,2022,https://www.caranddriver.com/lexus/ux,0.025
+RC F,Lexus,2021,https://www.caranddriver.com/lexus/rc-f,0.0
+GS,Lexus,2020,https://www.caranddriver.com/lexus/gs,0.095
+GS F,Lexus,2020,https://www.caranddriver.com/lexus/gs-f,0.095
+CT,Lexus,2017,https://www.caranddriver.com/lexus/ct,0.095
+IS F,Lexus,2014,https://www.caranddriver.com/lexus/is-f,0.05
+HS,Lexus,2012,https://www.caranddriver.com/lexus/hs,0.095
+LFA,Lexus,2012,https://www.caranddriver.com/lexus/lfa,0.095
+SC,Lexus,2010,https://www.caranddriver.com/lexus/sc,0.095
+Mark E,Lincoln,2022,https://www.caranddriver.com/lincoln/mark-e,0.38333333299999994
+Corsair,Lincoln,2022,https://www.caranddriver.com/lincoln/corsair,0.01
+Aviator,Lincoln,2022,https://www.caranddriver.com/lincoln/aviator,0.38333333299999994
+Nautilus,Lincoln,2022,https://www.caranddriver.com/lincoln/nautilus,0.4
+Navigator,Lincoln,2022,https://www.caranddriver.com/lincoln/navigator,0.5
+Continental,Lincoln,2020,https://www.caranddriver.com/lincoln/continental,0.0
+MKZ,Lincoln,2020,https://www.caranddriver.com/lincoln/mkz,0.38333333299999994
+MKC,Lincoln,2019,https://www.caranddriver.com/lincoln/mkc,0.38333333299999994
+MKT,Lincoln,2019,https://www.caranddriver.com/lincoln/mkt,0.38333333299999994
+MKX,Lincoln,2017,https://www.caranddriver.com/lincoln/mkx,0.38333333299999994
+MKS,Lincoln,2016,https://www.caranddriver.com/lincoln/mks,0.38333333299999994
+Town Car,Lincoln,2011,https://www.caranddriver.com/lincoln/town-car,0.38333333299999994
+Endurance,Lordstown,2022,https://www.caranddriver.com/lordstown/endurance,
+Evora GT,Lotus,2021,https://www.caranddriver.com/lotus/evora-gt,
+Emira,Lotus,2023,https://www.caranddriver.com/lotus/emira,
+Evija,Lotus,2022,https://www.caranddriver.com/lotus/evija,
+Evora 400,Lotus,2019,https://www.caranddriver.com/lotus/evora-400-2019,
+Elise,Lotus,2011,https://www.caranddriver.com/lotus/elise,
+Exige,Lotus,2011,https://www.caranddriver.com/lotus/exige,
+Gravity,Lucid Motors,2022,https://www.caranddriver.com/lucid-motors/gravity,
+Air,Lucid Motors,2022,https://www.caranddriver.com/lucid-motors/air,
+Grecale,Maserati,2022,https://www.caranddriver.com/maserati/grecale,0.026666667
+Ghibli,Maserati,2022,https://www.caranddriver.com/maserati/ghibli,0.03
+GranTurismo,Maserati,2022,https://www.caranddriver.com/maserati/granturismo,0.05
+MC20,Maserati,2022,https://www.caranddriver.com/maserati/mc20,0.026666667
+Levante,Maserati,2022,https://www.caranddriver.com/maserati/levante,0.02
+Quattroporte,Maserati,2022,https://www.caranddriver.com/maserati/quattroporte,0.01
+Mazda CX-5,Mazda,2022,https://www.caranddriver.com/mazda/cx-5,0.0
+Mazda 3,Mazda,2021,https://www.caranddriver.com/mazda/mazda-3,0.0
+Mazda 6,Mazda,2021,https://www.caranddriver.com/mazda/mazda-6,0.0
+Mazda CX-3,Mazda,2021,https://www.caranddriver.com/mazda/cx-3,0.0
+Mazda CX-30,Mazda,2021,https://www.caranddriver.com/mazda/cx-30,0.0
+Mazda CX-9,Mazda,2021,https://www.caranddriver.com/mazda/cx-9,0.0
+Mazda MX-30,Mazda,2022,https://www.caranddriver.com/mazda/mx-30,0.0
+Mazda MX-5 Miata,Mazda,2021,https://www.caranddriver.com/mazda/mx-5-miata,0.0
+Mazda 5,Mazda,2015,https://www.caranddriver.com/mazda/mazda-5,0.0
+Mazda 2,Mazda,2014,https://www.caranddriver.com/mazda/mazda-2,0.0
+Mazda Mazdaspeed 3,Mazda,2013,https://www.caranddriver.com/mazda/mazdaspeed-3,0.0
+Mazda CX-7,Mazda,2012,https://www.caranddriver.com/mazda/cx-7,0.0
+Mazda RX-8,Mazda,2011,https://www.caranddriver.com/mazda/rx-8,0.1875
+Mazda Tribute,Mazda,2011,https://www.caranddriver.com/mazda/tribute,0.0
+Artura,McLaren,2022,https://www.caranddriver.com/mclaren/artura,
+720S,McLaren,2021,https://www.caranddriver.com/mclaren/720s,
+765LT,McLaren,2021,https://www.caranddriver.com/mclaren/765lt,
+Elva,McLaren,2021,https://www.caranddriver.com/mclaren/elva,
+570S,McLaren,2020,https://www.caranddriver.com/mclaren/570s-570gt,
+600LT,McLaren,2020,https://www.caranddriver.com/mclaren/600lt,
+Senna,McLaren,2020,https://www.caranddriver.com/mclaren/senna,
+Speedtail,McLaren,2020,https://www.caranddriver.com/mclaren/speedtail,
+650S,McLaren,2016,https://www.caranddriver.com/mclaren/650s,
+12C,McLaren,2014,https://www.caranddriver.com/mclaren/12c,
+P1,McLaren,2014,https://www.caranddriver.com/mclaren/p1,
+MP4-12C,McLaren,2012,https://www.caranddriver.com/mclaren/mp4-12c,
+EQS,Mercedes-AMG,2023,https://www.caranddriver.com/mercedes-amg/eqs53,0.120384615
+CLA-Class,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/cla35-cla45,0.02
+E53,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/e53,0.120384615
+GLA-Class,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/gla35-gla45,0.02
+GLB-Class,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/glb35,0.0
+GLC43 / GLC63 / GLC63 S,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/glc43-4matic-glc63-4matic,0.0
+GT43 / GT53 / GT63,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/gt43-gt53-gt63,0.12
+SL-Class,Mercedes-AMG,2022,https://www.caranddriver.com/mercedes-amg/sl55-sl63,0.0
+A35,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/a35,0.120384615
+C43,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/c43,0.120384615
+C63,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/c63,0.120384615
+CLS53,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/cls53-4matic,0.01
+E63 S,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/e63-s-4matic,0.120384615
+E63 S Wagon,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/e63-s-wagon,0.120384615
+G63,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/g63,0.120384615
+GLC-Class Coupe,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/glc43-coupe-glc63-coupe,0.0
+GLE-Class,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/gle53-4matic-gle63-4matic,0.0
+GLS-Class,Mercedes-AMG,2020,https://www.caranddriver.com/mercedes-amg/gls63-4matic,0.0
+S63,Mercedes-AMG,2021,https://www.caranddriver.com/mercedes-amg/s63,0.01
+GT53/GT63,Mercedes-AMG,2020,https://www.caranddriver.com/mercedes-amg/gt53-gt63-2020,0.12
+S63/S65,Mercedes-AMG,2020,https://www.caranddriver.com/mercedes-amg/s63-s65-2020,0.01
+SLC43,Mercedes-AMG,2020,https://www.caranddriver.com/mercedes-amg/slc43,0.0
+CLA45,Mercedes-AMG,2019,https://www.caranddriver.com/mercedes-amg/cla45-4matic-2019,0.02
+GLE43 / GLE63,Mercedes-AMG,2019,https://www.caranddriver.com/mercedes-amg/gle43-4matic-gle63-4matic-2019,0.578333334
+GLE43 Coupe / GLE63 S Coupe,Mercedes-AMG,2019,https://www.caranddriver.com/mercedes-amg/gle43-coupe-4matic-gle63-s-coupe-4matic,0.578333334
+GT R,Mercedes-AMG,2019,https://www.caranddriver.com/mercedes-amg/gt-r-gt-r-pro-2019,0.12
+SL63 / SL65,Mercedes-AMG,2019,https://www.caranddriver.com/mercedes-amg/sl63-sl65-2019,0.120384615
+CLS63 S,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/cls63-s-4matic,0.01
+E43,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/e43-2018,0.120384615
+G63/G65,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/g63-g65-2018,0.120384615
+GLC43 / GLC63,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/glc43-2018,0.0
+GLS63,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/gls63-2018,0.01
+GT C / GT C Roadster / GT R,Mercedes-AMG,2018,https://www.caranddriver.com/mercedes-amg/gt-c-gt-c-roadster-gt-r-2018,0.12
+GLC43 / GLC43 Coupe,Mercedes-AMG,2017,https://www.caranddriver.com/mercedes-amg/glc43-glc43-coupe-2017,0.0
+GLE43 / GLE43 Coupe,Mercedes-AMG,2017,https://www.caranddriver.com/mercedes-amg/gle43-gle43-coupe-2017,0.578333334
+GL63,Mercedes-AMG,2016,https://www.caranddriver.com/mercedes-amg/gl63,0.120384615
+C-Class,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/c-class,0.021111111000000002
+EQG,Mercedes-Benz,2024,https://www.caranddriver.com/mercedes-benz/eqg,0.120384615
+CLE-Class,Mercedes-Benz,2023,https://www.caranddriver.com/mercedes-benz/cle-class,0.0
+EQB,Mercedes-Benz,2023,https://www.caranddriver.com/mercedes-benz/eqb,0.120384615
+EQE,Mercedes-Benz,2023,https://www.caranddriver.com/mercedes-benz/eqe,0.120384615
+GLC-class,Mercedes-Benz,2023,https://www.caranddriver.com/mercedes-benz/glc-class,0.0
+CLS-Class,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/cls-class,0.0
+E-Class,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/e-class,0.0
+E-Class Wagon,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/e-class-wagon,0.0
+EQA,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/eqa,0.120384615
+GLC Coupe,Mercedes-Benz,2022,https://www.caranddriver.com/mercedes-benz/glc-coupe,0.0
+A-Class,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/a-class,0.02
+EQC,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/eqc,0.120384615
+G-class,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/g-class,0.0
+Metris,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/metris,0.05
+S-Class,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/s-class,0.0
+Sprinter,Mercedes-Benz,2021,https://www.caranddriver.com/mercedes-benz/sprinter,0.120384615
+SLC-Class,Mercedes-Benz,2020,https://www.caranddriver.com/mercedes-benz/slc-class,0.0
+C-class Coupe and Cabriolet,Mercedes-Benz,2018,https://www.caranddriver.com/mercedes-benz/c-class-coupe-and-cabriolet-2018,0.05
+E-class Coupe and Cabriolet,Mercedes-Benz,2018,https://www.caranddriver.com/mercedes-benz/e-class-coupe-and-cabriolet-2018,0.05
+B-class Electric Drive,Mercedes-Benz,2017,https://www.caranddriver.com/mercedes-benz/b-class-electric-drive,0.0
+SLK-class,Mercedes-Benz,2016,https://www.caranddriver.com/mercedes-benz/slk-class,0.0
+G63 / G65 AMG,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/g63-g65-amg,0.0
+GLK-class,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/glk-class,0.0
+M-class,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/m-class,0.0
+ML63 AMG,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/ml63-amg,0.0
+S63 / S65 AMG,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/s63-s65-amg,0.01
+SLK55 AMG,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/slk55-amg,0.55
+SLS AMG,Mercedes-Benz,2015,https://www.caranddriver.com/mercedes-benz/sls-amg,0.0
+C63 AMG,Mercedes-Benz,2014,https://www.caranddriver.com/mercedes-benz/c63-amg,0.0
+CL-class,Mercedes-Benz,2014,https://www.caranddriver.com/mercedes-benz/cl-class,0.0
+CL63 / CL65 AMG,Mercedes-Benz,2014,https://www.caranddriver.com/mercedes-benz/cl63-cl65-amg,0.0
+F-cell,Mercedes-Benz,2013,https://www.caranddriver.com/mercedes-benz/f-cell,0.120384615
+R-class,Mercedes-Benz,2012,https://www.caranddriver.com/mercedes-benz/r-class,0.0
+CLK-class,Mercedes-Benz,2009,https://www.caranddriver.com/mercedes-benz/clk-class,0.0
+SLR-class,Mercedes-Benz,2009,https://www.caranddriver.com/mercedes-benz/slr-class,0.0
+EQS SUV,Mercedes-Maybach,2023,https://www.caranddriver.com/mercedes-maybach/eqs-suv,0.120384615
+ S-Class,Mercedes-Maybach,2022,https://www.caranddriver.com/mercedes-maybach/s580-s680,0.0
+S560/S650,Mercedes-Maybach,2020,https://www.caranddriver.com/mercedes-maybach/s560-s650-2020,0.01
+Cooper,Mini,2022,https://www.caranddriver.com/mini/cooper-hardtop-convertible,
+Cooper Electric,Mini,2022,https://www.caranddriver.com/mini/cooper-s-e,
+Cooper Clubman JCW,Mini,2022,https://www.caranddriver.com/mini/cooper-clubman-jcw,
+Cooper S Clubman,Mini,2022,https://www.caranddriver.com/mini/cooper-clubman-s,
+Cooper Countryman,Mini,2022,https://www.caranddriver.com/mini/cooper-countryman-s,
+Cooper Countryman JCW,Mini,2022,https://www.caranddriver.com/mini/cooper-countryman-jcw,
+Cooper JCW,Mini,2022,https://www.caranddriver.com/mini/cooper-jcw,
+Cooper Paceman,Mini,2016,https://www.caranddriver.com/mini/cooper-paceman,
+Cooper Paceman S / JCW,Mini,2016,https://www.caranddriver.com/mini/cooper-paceman-s-jcw,
+Cooper Coupe,Mini,2015,https://www.caranddriver.com/mini/cooper-coupe,
+Cooper Coupe S / JCW,Mini,2015,https://www.caranddriver.com/mini/cooper-coupe-s-jcw,
+Cooper Roadster,Mini,2015,https://www.caranddriver.com/mini/cooper-roadster,
+Cooper Roadster S / JCW,Mini,2015,https://www.caranddriver.com/mini/cooper-roadster-s-jcw,
+Eclipse Cross,Mitsubishi,2022,https://www.caranddriver.com/mitsubishi/eclipse-cross,0.0
+Outlander,Mitsubishi,2022,https://www.caranddriver.com/mitsubishi/outlander,0.0
+Mirage,Mitsubishi,2021,https://www.caranddriver.com/mitsubishi/mirage,0.0
+Mirage G4,Mitsubishi,2021,https://www.caranddriver.com/mitsubishi/mirage-g4,0.0
+Outlander Sport,Mitsubishi,2021,https://www.caranddriver.com/mitsubishi/outlander-sport,0.0
+i-MiEV,Mitsubishi,2017,https://www.caranddriver.com/mitsubishi/i-miev,0.0
+Lancer,Mitsubishi,2017,https://www.caranddriver.com/mitsubishi/lancer,0.0
+Lancer Evolution,Mitsubishi,2015,https://www.caranddriver.com/mitsubishi/lancer-evolution,0.0
+Eclipse,Mitsubishi,2012,https://www.caranddriver.com/mitsubishi/eclipse,0.0
+Galant,Mitsubishi,2012,https://www.caranddriver.com/mitsubishi/galant,0.0
+Endeavor,Mitsubishi,2011,https://www.caranddriver.com/mitsubishi/endeavor,0.0
+Raider,Mitsubishi,2009,https://www.caranddriver.com/mitsubishi/raider,0.0
+Badger,Nikola,2022,https://www.caranddriver.com/nikola/badger,
+Z,Nissan,2023,https://www.caranddriver.com/nissan/z,0.290625
+Rogue Sport,Nissan,2023,https://www.caranddriver.com/nissan/rogue-sport,0.0
+Altima,Nissan,2022,https://www.caranddriver.com/nissan/altima,0.5
+Ariya,Nissan,2022,https://www.caranddriver.com/nissan/ariya,0.290625
+Armada,Nissan,2022,https://www.caranddriver.com/nissan/armada,0.05
+Frontier,Nissan,2022,https://www.caranddriver.com/nissan/frontier,0.45
+GT-R,Nissan,2022,https://www.caranddriver.com/nissan/gt-r,0.12
+Leaf,Nissan,2022,https://www.caranddriver.com/nissan/leaf,0.35
+Maxima,Nissan,2022,https://www.caranddriver.com/nissan/maxima,0.5
+Murano,Nissan,2022,https://www.caranddriver.com/nissan/murano,0.55
+Pathfinder,Nissan,2022,https://www.caranddriver.com/nissan/pathfinder,0.290625
+Sentra,Nissan,2022,https://www.caranddriver.com/nissan/sentra,0.15
+Titan,Nissan,2022,https://www.caranddriver.com/nissan/titan,0.5
+Titan XD,Nissan,2022,https://www.caranddriver.com/nissan/titan-xd,0.5
+Versa,Nissan,2022,https://www.caranddriver.com/nissan/versa,0.01
+Kicks,Nissan,2021,https://www.caranddriver.com/nissan/kicks,0.15
+NV1500 / 2500 / 3500,Nissan,2021,https://www.caranddriver.com/nissan/nv1500-2500-3500,0.566666667
+NV200,Nissan,2021,https://www.caranddriver.com/nissan/nv200,0.2
+Rogue,Nissan,2021,https://www.caranddriver.com/nissan/rogue,0.2
+370Z,Nissan,2020,https://www.caranddriver.com/nissan/370z,0.290625
+Sentra NISMO,Nissan,2019,https://www.caranddriver.com/nissan/sentra-nismo,0.05
+Versa Note,Nissan,2019,https://www.caranddriver.com/nissan/versa-note,0.01
+Juke,Nissan,2017,https://www.caranddriver.com/nissan/juke,0.290625
+Juke NISMO / NISMO RS,Nissan,2017,https://www.caranddriver.com/nissan/juke-nismo-nismo-rs,0.01
+Cube,Nissan,2014,https://www.caranddriver.com/nissan/cube,0.290625
+Precept,Polestar,2023,https://www.caranddriver.com/polestar/precept,0.01
+Polestar 2,Polestar,2022,https://www.caranddriver.com/polestar/polestar-2,0.475
+Polestar 1,Polestar,2021,https://www.caranddriver.com/polestar/polestar-1,0.475
+Porsche 911 GT3,Porsche,2022,https://www.caranddriver.com/porsche/911-gt3-gt3-rs,0.01
+718 Boxster,Porsche,2022,https://www.caranddriver.com/porsche/718-boxster,0.0
+718 Cayman,Porsche,2022,https://www.caranddriver.com/porsche/718-cayman,0.0
+911,Porsche,2022,https://www.caranddriver.com/porsche/911,0.0
+Cayenne Coupe,Porsche,2022,https://www.caranddriver.com/porsche/cayenne-coupe,0.0025
+Macan,Porsche,2022,https://www.caranddriver.com/porsche/macan,0.0
+Taycan,Porsche,2022,https://www.caranddriver.com/porsche/taycan,0.0
+911 Turbo,Porsche,2021,https://www.caranddriver.com/porsche/911-turbo-turbo-s,0.0
+Cayenne,Porsche,2021,https://www.caranddriver.com/porsche/cayenne,0.0025
+Cayenne Turbo/Turbo S,Porsche,2021,https://www.caranddriver.com/porsche/cayenne-turbo-turbo-s,0.0025
+Macan Turbo,Porsche,2021,https://www.caranddriver.com/porsche/macan-turbo,0.0
+Panamera,Porsche,2021,https://www.caranddriver.com/porsche/panamera,0.00037037
+Panamera Sport Turismo,Porsche,2021,https://www.caranddriver.com/porsche/panamera-sport-turismo,0.0
+Panamera Turbo S,Porsche,2021,https://www.caranddriver.com/porsche/panamera-turbo-turbo-s,0.00037037
+911 GT2 RS,Porsche,2019,https://www.caranddriver.com/porsche/911-gt2-rs,0.01
+918,Porsche,2015,https://www.caranddriver.com/porsche/918,0.00037037
+1500 EV,Ram,2024,https://www.caranddriver.com/ram/1500-ev,0.566666667
+1500,Ram,2022,https://www.caranddriver.com/ram/1500,0.566666667
+TRX,Ram,2022,https://www.caranddriver.com/ram/1500-trx,0.1875
+ProMaster,Ram,2022,https://www.caranddriver.com/ram/promaster,0.34
+Dakota,Ram,2021,https://www.caranddriver.com/ram/dakota,0.51
+Ram HD,Ram,2021,https://www.caranddriver.com/ram/2500-3500,0.51
+ProMaster City,Ram,2021,https://www.caranddriver.com/ram/promaster-city,0.34
+2500/3500,Ram,2019,https://www.caranddriver.com/ram/2500-3500-2019,0.51
+R1S,Rivian,2022,https://www.caranddriver.com/rivian/r1s,
+R1T,Rivian,2022,https://www.caranddriver.com/rivian/r1t,
+Rolls-Royce Spectre,Rolls-Royce,2024,https://www.caranddriver.com/rolls-royce/spectre,0.0
+Ghost,Rolls-Royce,2022,https://www.caranddriver.com/rolls-royce/ghost,0.05
+Phantom,Rolls-Royce,2022,https://www.caranddriver.com/rolls-royce/phantom,0.05
+Cullinan,Rolls-Royce,2021,https://www.caranddriver.com/rolls-royce/cullinan,0.05
+Dawn,Rolls-Royce,2021,https://www.caranddriver.com/rolls-royce/dawn,0.05
+Wraith,Rolls-Royce,2021,https://www.caranddriver.com/rolls-royce/wraith,0.05
+BRZ,Subaru,2022,https://www.caranddriver.com/subaru/brz,0.26666666699999997
+Solterra,Subaru,2023,https://www.caranddriver.com/subaru/solterra,0.38
+Ascent,Subaru,2022,https://www.caranddriver.com/subaru/ascent,0.5
+Forester,Subaru,2022,https://www.caranddriver.com/subaru/forester,0.475
+Impreza,Subaru,2022,https://www.caranddriver.com/subaru/impreza,0.45
+Legacy,Subaru,2022,https://www.caranddriver.com/subaru/legacy,0.5
+Outback,Subaru,2022,https://www.caranddriver.com/subaru/outback,0.5
+WRX,Subaru,2022,https://www.caranddriver.com/subaru/wrx,0.1875
+Crosstrek,Subaru,2021,https://www.caranddriver.com/subaru/crosstrek,0.0
+WRX STI,Subaru,2021,https://www.caranddriver.com/subaru/wrx-sti,0.1875
+Tribeca,Subaru,2014,https://www.caranddriver.com/subaru/tribeca,0.26666666699999997
+Cybertruck,Tesla,2023,https://www.caranddriver.com/tesla/cybertruck,0.6166666670000001
+Model S,Tesla,2022,https://www.caranddriver.com/tesla/model-s,0.6166666670000001
+Model 3,Tesla,2021,https://www.caranddriver.com/tesla/model-3,0.6166666670000001
+Model X,Tesla,2021,https://www.caranddriver.com/tesla/model-x,0.6166666670000001
+Model Y,Tesla,2021,https://www.caranddriver.com/tesla/model-y,0.6166666670000001
+Roadster,Tesla,2023,https://www.caranddriver.com/tesla/roadster,0.6166666670000001
+GR 86,Toyota,2022,https://www.caranddriver.com/toyota/gr-86,0.282608696
+Tacoma,Toyota,2023,https://www.caranddriver.com/toyota/tacoma,0.55
+4Runner,Toyota,2022,https://www.caranddriver.com/toyota/4runner,0.0
+Avalon,Toyota,2022,https://www.caranddriver.com/toyota/avalon,0.5
+bZ4X,Toyota,2022,https://www.caranddriver.com/toyota/bz4x,0.05
+Corolla Cross,Toyota,2022,https://www.caranddriver.com/toyota/corolla-cross,0.0
+GR Corolla,Toyota,2022,https://www.caranddriver.com/toyota/gr-corolla,0.15
+Highlander,Toyota,2022,https://www.caranddriver.com/toyota/highlander,0.5
+Prius,Toyota,2022,https://www.caranddriver.com/toyota/prius,0.0
+Sienna,Toyota,2022,https://www.caranddriver.com/toyota/sienna,0.45
+Sequoia,Toyota,2022,https://www.caranddriver.com/toyota/sequoia,0.55
+Supra,Toyota,2022,https://www.caranddriver.com/toyota/supra,0.05
+Tundra,Toyota,2022,https://www.caranddriver.com/toyota/tundra,0.65
+Camry,Toyota,2021,https://www.caranddriver.com/toyota/camry,0.5
+C-HR,Toyota,2021,https://www.caranddriver.com/toyota/c-hr,0.0
+Corolla,Toyota,2021,https://www.caranddriver.com/toyota/corolla,0.15
+Land Cruiser,Toyota,2021,https://www.caranddriver.com/toyota/land-cruiser,0.05
+Mirai,Toyota,2021,https://www.caranddriver.com/toyota/mirai,0.0
+Prius Prime,Toyota,2021,https://www.caranddriver.com/toyota/prius-prime,0.0
+RAV4,Toyota,2021,https://www.caranddriver.com/toyota/rav4,0.6
+RAV4 Hybrid,Toyota,2021,https://www.caranddriver.com/toyota/rav4-hybrid,0.6
+Venza,Toyota,2021,https://www.caranddriver.com/toyota/venza,0.0
+86,Toyota,2020,https://www.caranddriver.com/toyota/86-2020,0.282608696
+Yaris,Toyota,2020,https://www.caranddriver.com/toyota/yaris,0.05
+Prius C,Toyota,2019,https://www.caranddriver.com/toyota/prius-c,0.0
+Prius V,Toyota,2019,https://www.caranddriver.com/toyota/prius-v,0.0
+Corolla iM,Toyota,2018,https://www.caranddriver.com/toyota/corolla-im-2018,0.15
+Yaris iA,Toyota,2018,https://www.caranddriver.com/toyota/yaris-ia,0.05
+Matrix,Toyota,2013,https://www.caranddriver.com/toyota/matrix,0.282608696
+Camry Solara,Toyota,2008,https://www.caranddriver.com/toyota/camry-solara,0.5
+ID.Buzz Microbus,Volkswagen,2024,https://www.caranddriver.com/volkswagen/id-buzz-microbus,0.209130435
+ID.8,Volkswagen,2023,https://www.caranddriver.com/volkswagen/id8,0.209130435
+Arteon,Volkswagen,2022,https://www.caranddriver.com/volkswagen/arteon,0.01
+Atlas Cross Sport,Volkswagen,2022,https://www.caranddriver.com/volkswagen/atlas-cross-sport,0.0
+Golf GTI,Volkswagen,2022,https://www.caranddriver.com/volkswagen/golf-gti,0.12
+Golf R,Volkswagen,2022,https://www.caranddriver.com/volkswagen/golf-r,0.085
+Jetta,Volkswagen,2022,https://www.caranddriver.com/volkswagen/jetta,0.01
+Jetta GLI,Volkswagen,2022,https://www.caranddriver.com/volkswagen/jetta-gli,0.01
+Passat,Volkswagen,2022,https://www.caranddriver.com/volkswagen/passat,0.39
+Taos,Volkswagen,2022,https://www.caranddriver.com/volkswagen/taos,0.209130435
+Tiguan,Volkswagen,2022,https://www.caranddriver.com/volkswagen/tiguan,0.07
+Atlas,Volkswagen,2021,https://www.caranddriver.com/volkswagen/atlas,0.4525
+Golf,Volkswagen,2021,https://www.caranddriver.com/volkswagen/golf,0.085
+ID.4,Volkswagen,2021,https://www.caranddriver.com/volkswagen/id4,0.01
+Beetle,Volkswagen,2019,https://www.caranddriver.com/volkswagen/beetle,0.209130435
+e-Golf,Volkswagen,2019,https://www.caranddriver.com/volkswagen/e-golf,0.085
+Golf Alltrack,Volkswagen,2019,https://www.caranddriver.com/volkswagen/golf-alltrack,0.085
+Golf SportWagen,Volkswagen,2019,https://www.caranddriver.com/volkswagen/golf-sportwagen,0.0
+CC,Volkswagen,2017,https://www.caranddriver.com/volkswagen/cc,0.209130435
+Touareg,Volkswagen,2017,https://www.caranddriver.com/volkswagen/touareg-2017,0.209130435
+Eos,Volkswagen,2016,https://www.caranddriver.com/volkswagen/eos,0.209130435
+Routan,Volkswagen,2012,https://www.caranddriver.com/volkswagen/routan,0.209130435
+New Beetle,Volkswagen,2010,https://www.caranddriver.com/volkswagen/new-beetle,0.209130435
+Rabbit,Volkswagen,2009,https://www.caranddriver.com/volkswagen/rabbit,0.209130435
+C40 Recharge,Volvo,2022,https://www.caranddriver.com/volvo/c40-recharge,0.7
+S90,Volvo,2022,https://www.caranddriver.com/volvo/s90,0.02
+V60 / V60 Cross Country,Volvo,2022,https://www.caranddriver.com/volvo/v60,0.0
+XC40,Volvo,2022,https://www.caranddriver.com/volvo/xc40,0.01
+XC60,Volvo,2022,https://www.caranddriver.com/volvo/xc60,0.018000000000000002
+XC90,Volvo,2022,https://www.caranddriver.com/volvo/xc90,0.016666667
+V90 Cross Country,Volvo,2022,https://www.caranddriver.com/volvo/v90-cross-country,0.0
+S60,Volvo,2021,https://www.caranddriver.com/volvo/s60,0.01
+V90,Volvo,2021,https://www.caranddriver.com/volvo/v90,0.01
+XC40 Recharge,Volvo,2021,https://www.caranddriver.com/volvo/xc40-recharge,0.7
+V90 / V90 Cross Country,Volvo,2018,https://www.caranddriver.com/volvo/v90-v90-cross-country-2018,0.0
+S80,Volvo,2016,https://www.caranddriver.com/volvo/s80,0.01
+XC70,Volvo,2016,https://www.caranddriver.com/volvo/xc70,0.040967742
+C30,Volvo,2013,https://www.caranddriver.com/volvo/c30,0.040967742
+C70,Volvo,2013,https://www.caranddriver.com/volvo/c70,0.040967742
+S40,Volvo,2011,https://www.caranddriver.com/volvo/s40,0.01
+V50,Volvo,2011,https://www.caranddriver.com/volvo/v50,0.040967742
+V70,Volvo,2010,https://www.caranddriver.com/volvo/v70,0.040967742
