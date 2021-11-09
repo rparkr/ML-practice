@@ -5,9 +5,15 @@
 
 **Updated on:** 8-Nov-2021
 
-
 ---
 
+## About this repository
+* `Data_Collection_Vehicle_Info.ipynb`: The Jupyter notebook with my Python code to vehicle specs data from CarAndDriver.com
+* `vehicle_specs.csv`: Main output of the Jupyter notebook; the set of vehicle specs data collected. Contains data on about 3,700 model-trims for the latest-model vehicles, from CarAndDriver.com's vehicle specs pages. Has over 40 columns of data on each trim, which are described below.
+* `model_urls.csv`: List of around 800 models available on CarAndDriver.com's New Vehicles pages (by make, or automaker)
+* `Make_2021_Domestic_Content.csv` and `Models_2021_Domestic_Content.csv`: supporting files used by the Jupyter notebook to add two columns to the output: Vehicle Origin (domestic vs. foreign), and Pct_domestic_content (the percent of component parts and labor, by value, that came from the U.S. or Canada). See Data Sources below for more info about this source.
+
+---
 
 ## Data Sources
 * Vehicle specs: [CarAndDriver.com](https://www.caranddriver.com/volkswagen/atlas/specs/2021/volkswagen_atlas_volkswagen-atlas_2021/417662)
