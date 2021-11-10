@@ -248,8 +248,11 @@ F-150 Lightning,Ford,2022,https://www.caranddriver.com/ford/f-150-lightning,0.55
 Bronco Raptor,Ford,2023,https://www.caranddriver.com/ford/bronco-raptor,0.61
 Ranger,Ford,2023,https://www.caranddriver.com/ford/ranger,0.45
 Ranger Raptor,Ford,2023,https://www.caranddriver.com/ford/ranger-raptor,0.45
+Bronco,Ford,2022,https://www.caranddriver.com/ford/bronco,0.61
+Bronco Sport,Ford,2022,https://www.caranddriver.com/ford/bronco-sport,0.61
 E-Transit,Ford,2022,https://www.caranddriver.com/ford/e-transit,0.15
 Edge,Ford,2022,https://www.caranddriver.com/ford/edge,0.41
+Escape,Ford,2022,https://www.caranddriver.com/ford/escape,0.4
 Expedition,Ford,2022,https://www.caranddriver.com/ford/expedition,0.6
 Explorer,Ford,2022,https://www.caranddriver.com/ford/explorer,0.48
 GT,Ford,2022,https://www.caranddriver.com/ford/gt,0.12
@@ -257,10 +260,7 @@ Maverick,Ford,2022,https://www.caranddriver.com/ford/maverick,0.3928571429999999
 Mustang,Ford,2022,https://www.caranddriver.com/ford/mustang,0.77
 Mustang Mach-E,Ford,2022,https://www.caranddriver.com/ford/mustang-mach-e,0.77
 Super Duty,Ford,2022,https://www.caranddriver.com/ford/super-duty,0.39285714299999996
-Bronco,Ford,2021,https://www.caranddriver.com/ford/bronco,0.61
-Bronco Sport,Ford,2021,https://www.caranddriver.com/ford/bronco-sport,0.61
 EcoSport,Ford,2021,https://www.caranddriver.com/ford/ecosport,0.16
-Escape,Ford,2022,https://www.caranddriver.com/ford/escape,0.4
 F-150,Ford,2021,https://www.caranddriver.com/ford/f-150,0.55
 F-150 Raptor,Ford,2021,https://www.caranddriver.com/ford/f-150-raptor,0.55
 Ford Fusion Active,Ford,2021,https://www.caranddriver.com/ford/fusion-active,0.39285714299999996
@@ -487,6 +487,7 @@ MC20,Maserati,2022,https://www.caranddriver.com/maserati/mc20,0.026666667
 Levante,Maserati,2022,https://www.caranddriver.com/maserati/levante,0.02
 Quattroporte,Maserati,2022,https://www.caranddriver.com/maserati/quattroporte,0.01
 Mazda CX-5,Mazda,2022,https://www.caranddriver.com/mazda/cx-5,0.0
+CX-50,Mazda,2023,https://www.caranddriver.com/mazda/cx-50,0.01875
 Mazda 3,Mazda,2021,https://www.caranddriver.com/mazda/mazda-3,0.0
 Mazda 6,Mazda,2021,https://www.caranddriver.com/mazda/mazda-6,0.0
 Mazda CX-3,Mazda,2021,https://www.caranddriver.com/mazda/cx-3,0.0
@@ -745,15 +746,15 @@ Routan,Volkswagen,2012,https://www.caranddriver.com/volkswagen/routan,0.20913043
 New Beetle,Volkswagen,2010,https://www.caranddriver.com/volkswagen/new-beetle,0.209130435
 Rabbit,Volkswagen,2009,https://www.caranddriver.com/volkswagen/rabbit,0.209130435
 C40 Recharge,Volvo,2022,https://www.caranddriver.com/volvo/c40-recharge,0.7
+S60,Volvo,2022,https://www.caranddriver.com/volvo/s60,0.01
 S90,Volvo,2022,https://www.caranddriver.com/volvo/s90,0.02
 V60 / V60 Cross Country,Volvo,2022,https://www.caranddriver.com/volvo/v60,0.0
 XC40,Volvo,2022,https://www.caranddriver.com/volvo/xc40,0.01
+XC40 Recharge,Volvo,2022,https://www.caranddriver.com/volvo/xc40-recharge,0.7
 XC60,Volvo,2022,https://www.caranddriver.com/volvo/xc60,0.018000000000000002
 XC90,Volvo,2022,https://www.caranddriver.com/volvo/xc90,0.016666667
 V90 Cross Country,Volvo,2022,https://www.caranddriver.com/volvo/v90-cross-country,0.0
-S60,Volvo,2021,https://www.caranddriver.com/volvo/s60,0.01
 V90,Volvo,2021,https://www.caranddriver.com/volvo/v90,0.01
-XC40 Recharge,Volvo,2021,https://www.caranddriver.com/volvo/xc40-recharge,0.7
 V90 / V90 Cross Country,Volvo,2018,https://www.caranddriver.com/volvo/v90-v90-cross-country-2018,0.0
 S80,Volvo,2016,https://www.caranddriver.com/volvo/s80,0.01
 XC70,Volvo,2016,https://www.caranddriver.com/volvo/xc70,0.040967742
