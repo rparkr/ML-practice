@@ -1,4 +1,6 @@
 # ML-practice
-A repo for files and Jupyter notebooks I'm using as I develop skills in Machine Learning with Python. 
+Files and Jupyter notebooks I've created as I develop skills in Machine Learning with Python. 
 
-As of 13-Nov-2021, the `Vehicle specs` folder has data and machine learning models applied to it. The `1000 Wikipedia Articles` folder just has data and Python code to gather additional data.
+As of Dec-2021, the `Vehicle specs` folder has code for collecting data, processing and cleaning the data, EDA, extracting features from unstructured data (text and images), and applying supervised and unsupervised ML models for statistical inference.
+
+The `1000 Wikipedia Articles` folder has Python code to gather extensive data on any number of Wikipedia articles, with numeric, text, and categorical features for running classification, regression, or clustering models.
