@@ -10,8 +10,9 @@ Each project is a Jupyter notebook file (.ipynb) that I ran in Google Colab for 
 2. [Convolutional network for classifying Fasion MNIST](Project_2_Convolutional_Net_Fashion_MNIST.ipynb)
 3. [U-Net convolutional network for pixel-level image segmentation](Project_3_U-Net_image_segmentation.ipynb), used to label images of tissue biopsies with a binary classification mask (cancerous or non-cancerous)
 4. [Style transfer using pre-trained VGG-19 network](Project_4_Style_transfer.ipynb). The goal was to extract feature maps from layers in the VGG vision network to combine the content of one image with the style of another image.
- * ![Example output](/imgs/Style_transfer.gif)
- * ![Content, style, and generated image](/imgs/Style_transfer.png)
+ * ![Content, style, and generated image](https://github.com/rparkr/ML-practice/blob/main/Deep%20learning/Class%20projects/imgs/Style_transfer.png)
+ * **Example output** 
+ * <img src="https://github.com/rparkr/ML-practice/blob/main/Deep%20learning/Class%20projects/imgs/Style_transfer.gif" width=300>
 5. [Character-level language modeling using a Recurrent Neural Network](Project_5_Recurrent_Net_language_model.ipynb). The implementation includes RNNs with the Long Short-term Memory (LSTM) structure and RNNs with the Gated Recurrent Unit (GRU) structure.
 6. [Sequence-to-Sequence text translation using an encoder-decoder Transformer network](Project_6_Transformer_Net_seq2seq.ipynb). Follows the implementation of the Transformer model architecture from "Attention is All You Need" (Vaswani et al. 2017). Translates sentence pairs from Spanish to English.
 7. [Image generation using a Generative Adversarial Network](Project_7_GAN_image_generation.ipynb). This project uses a simple, 25M-parameter convolutional GAN to generate images that resemble images it was trained on. It implements training across two image domains: the CelebA dataset (generates images of human faces) and a custom dataset of images of vehicles.
