@@ -5,17 +5,24 @@ Files and data I created for my Machine Learning in Python course at Brigham You
 
 ---
 
+🚧 This repo is still a work in progress as I update the files to make improvements and incorporate new techniques I've learned. 🚧
+
 
 ## Files in this repository
 **Wikipedia Data Retrieval.ipynb**
 
-This is the Jupyter notebook wiith my code to gather, process, and store data from Wikipedia. It retrieves any number of randomly selected articles from Wikipedia and organizes data from those pages for further analysis.
+Purpose: gather data on which to practice machine learning techniques.
+
+This is the Jupyter notebook with my code to gather, process, and store data from Wikipedia.
+It retrieves any number of randomly selected articles from Wikipedia and organizes data from those pages for further analysis.
 
 **Wikipedia_data.csv**
 
-Purpose: gather data on which to practice machine learning techniques.
 I obtained this data through Wikipedia's API.
-File contains 1035 records, each record describes a randomly selected article from Wikipedia. There are about 23 columns describing each article, though not all articles have values in each column. Also note that some columns contain multiple values in a single cell. These values are built as Python lists, and can be parsed to obtain the list of individual values.
+File contains 1035 records, each record describes a randomly selected article from Wikipedia.
+There are about 23 columns describing each article, though not all articles have values in each column.
+Also note that some columns contain multiple values in a single cell. These values are built as Python lists, 
+and can be parsed to obtain the list of individual values.
 * Page ID
 * Title 
 * URL 
@@ -42,7 +49,9 @@ File contains 1035 records, each record describes a randomly selected article fr
 * Location, Globe 
 
 **Wikipedia_other_info.csv**
-**⚠ NOTE ⚠, 2-Nov-2021: only the first ~200 records processed properly. I need to edit the .ipynb to improve the collection of other info.**
+
+**⚠ NOTE ⚠, 2-Nov-2021: only the first ~200 records are properly processed.** The error likely relates to saving article text in a .csv file, where some commas are not escaped, so they are treated as delimeters and separate the article text between multiple columns.
+
 Purpose: enhance data obtained through Wikipedia's API (Wikipedia_data.csv) with additional columns about each article in the dataset. 
 I obtained this data using webscraping with Python's `requests` and `BeautifulSoup` libraries.
 File contains 1035 records, each record describes the randomly selected Wikipedia articles from the Wikipedia_data.csv dataset.
