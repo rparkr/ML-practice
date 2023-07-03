@@ -53,7 +53,7 @@ and can be parsed to obtain the list of individual values.
 **⚠ NOTE ⚠, 2-Nov-2021: only the first ~200 records are properly processed.** The error likely relates to saving article text in a .csv file, where some commas are not escaped, so they are treated as delimeters and separate the article text between multiple columns.
 
 Purpose: enhance data obtained through Wikipedia's API (Wikipedia_data.csv) with additional columns about each article in the dataset. 
-I obtained this data using webscraping with Python's `requests` and `BeautifulSoup` libraries.
+I obtained this data by web scraping with the `requests` and `BeautifulSoup` Python libraries.
 File contains 1035 records, each record describes the randomly selected Wikipedia articles from the Wikipedia_data.csv dataset.
 Columns:
 * Page ID
@@ -66,15 +66,3 @@ Columns:
 * Total edits
 * Recent edits (in past 30 days)
 * Recent authors (in past 30 days)
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
